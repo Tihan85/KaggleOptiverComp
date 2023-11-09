@@ -1,0 +1,9 @@
+Trials for XGBRegressor:
+
+T1: [
+Best parameters {'max_depth': 10, 'learning_rate': 0.18953165585593437, 'n_estimators': 871, 'min_child_weight': 7, 'gamma': 0.11713120491717996, 'subsample': 0.8384958746609346, 'colsample_bytree': 0.9665569666916849, 'reg_alpha': 0.5913618850901581, 'reg_lambda': 0.8041143527853731, 'random_state': 62}/
+
+Best value 67.92734490431206/
+
+Best trial FrozenTrial(number=72, state=1, values=[67.92734490431206], datetime_start=datetime.datetime(2023, 11, 9, 8, 58, 6, 897856), datetime_complete=datetime.datetime(2023, 11, 9, 8, 58, 10, 583276), params={'max_depth': 10, 'learning_rate': 0.18953165585593437, 'n_estimators': 871, 'min_child_weight': 7, 'gamma': 0.11713120491717996, 'subsample': 0.8384958746609346, 'colsample_bytree': 0.9665569666916849, 'reg_alpha': 0.5913618850901581, 'reg_lambda': 0.8041143527853731, 'random_state': 62}, user_attrs={}, system_attrs={}, intermediate_values={}, distributions={'max_depth': IntDistribution(high=10, log=False, low=1, step=1), 'learning_rate': FloatDistribution(high=1.0, log=False, low=0.01, step=None), 'n_estimators': IntDistribution(high=1000, log=False, low=50, step=1), 'min_child_weight': IntDistribution(high=10, log=False, low=1, step=1), 'gamma': FloatDistribution(high=1.0, log=False, low=0.01, step=None), 'subsample': FloatDistribution(high=1.0, log=False, low=0.01, step=None), 'colsample_bytree': FloatDistribution(high=1.0, log=False, low=0.01, step=None), 'reg_alpha': FloatDistribution(high=1.0, log=False, low=0.01, step=None), 'reg_lambda': FloatDistribution(high=1.0, log=False, low=0.01, step=None), 'random_state': IntDistribution(high=1000, log=False, low=1, step=1)}, trial_id=72, value=None)/
+]
